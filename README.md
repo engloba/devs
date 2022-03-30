@@ -1,2 +1,0 @@
-# devs
-TV DEVS Engloba
